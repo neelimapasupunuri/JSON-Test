@@ -21,7 +21,7 @@ public class ATTTestJSON {
 
 	public static final String NUMBERS = "numbers";
 	public static final String PROPS_FILE_NAME = "attJSONTest.properties";
-	public static final String HTTP_GET_URL = "http_Get_URL";
+	public static final String HTTP_GET_URL = "Http_Get_URL";
 
 	public static void main(String[] args) throws JSONException, IOException {
 		String url = getURL();
