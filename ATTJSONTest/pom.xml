@@ -24,9 +24,6 @@
 				<configuration>
 					<source>1.8</source>
 					<target>1.8</target>
-					<files>
-						<file>resources/config/attJSONTest.properties</file>
-					</files>
 				</configuration>
 			</plugin>
 			<plugin>
